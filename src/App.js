@@ -1,39 +1,39 @@
 const App = () => {
   return (
-    <div className='categories-container'>
-      <div className='category-container'>
-        {/* <img /> */}
-        <div className='category-body-container'>
-          <h2>Hats</h2>
-          <p>Shop Now</p>
+    <div className="categories-container">
+      <div className="category-container">
+        {/*<img src="" alt=""/>*/}
+        <div className="category-container-body">
+          <h1>Hats</h1>
+          <p>shop now</p>
         </div>
       </div>
-      <div className='category-container'>
-        {/* <img /> */}
-        <div className='category-body-container'>
-          <h2>Jackets</h2>
-          <p>Shop Now</p>
+      <div className="category-container">
+        {/*<img src="" alt=""/>*/}
+        <div className="category-container-body">
+          <h1>Jackets</h1>
+          <p>shop now</p>
         </div>
       </div>
-      <div className='category-container'>
-        {/* <img /> */}
-        <div className='category-body-container'>
-          <h2>Sneakers</h2>
-          <p>Shop Now</p>
+      <div className="category-container">
+        {/*<img src="" alt=""/>*/}
+        <div className="category-container-body">
+          <h1>Sneakers</h1>
+          <p>shop now</p>
         </div>
       </div>
-      <div className='category-container'>
-        {/* <img /> */}
-        <div className='category-body-container'>
-          <h2>Womens</h2>
-          <p>Shop Now</p>
+      <div className="category-container">
+        {/*<img src="" alt=""/>*/}
+        <div className="category-container-body">
+          <h1>Women</h1>
+          <p>shop now</p>
         </div>
       </div>
-      <div className='category-container'>
-        {/* <img /> */}
-        <div className='category-body-container'>
-          <h2>Mens</h2>
-          <p>Shop Now</p>
+      <div className="category-container">
+        {/*<img src="" alt=""/>*/}
+        <div className="category-container-body">
+          <h1>men</h1>
+          <p>shop now</p>
         </div>
       </div>
     </div>
