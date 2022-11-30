@@ -1,5 +1,4 @@
 import {useContext} from "react";
-
 import "./product-card.styles.scss";
 import {CartContext} from "../../contexts/cart.context";
 
